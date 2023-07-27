@@ -1,0 +1,35 @@
+body{
+    background-size: cover;
+}
+.heading
+{
+    width: 100%;
+    margin: 0;
+    font-size: 20px;
+}
+.note
+{
+    font-size: 15px;
+    color: black;
+    font-family: 'Fredoka', sans-serif;
+}
+h3
+{
+    font-family: 'Fredoka', sans-serif;
+    color: black;
+    background-color: #332211;
+}
+.song_name
+{
+    font-size: 20px;
+    color: black;
+    background-color: #332211;
+    border-color: #332211;
+}
+canvas
+{
+    background-color: #281b0d;
+    border: 5px 5px solid white;
+    border-radius: 20px;
+    box-shadow: 5px 5x  5px #1e140a;
+}
